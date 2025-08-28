@@ -1,0 +1,21 @@
+Business ID,Business Name,Industry Sector,Owner Name,Gender,Position,Contact Number,Email Address,Region or State,Business Size,Registration Status,Number of Employees,Revenue (Annual),Customer Base,Social Media Presence
+1,Aye Myanmar Trading,Retail,Aye Aye,Female,Owner,09-123456789,aye@example.com,Yangon,Small,Registered,15,50000,Retail Shops,Yes
+2,Golden Harvest,Agriculture,Tun Tun,Male,Manager,09-987654321,tun@example.com,Mandalay,Medium,Not Registered,50,200000,Farmers,No
+3,Shwe Min Co.,Manufacturing,Min Min,Male,Owner,09-234567890,min@example.com,Bago,Small,Registered,10,30000,Wholesalers,Yes
+4,Evergreen Foods,Food Processing,Hla Hla,Female,Owner,09-345678901,hla@example.com,Yangon,Medium,Not Registered,30,150000,Supermarkets,No
+5,Royal Rubber,Rubber,Soe Moe,Male,Manager,09-456789012,soe@example.com,Mon,Micro,Registered,5,10000,Exporters,Yes
+6,Blue Ocean Tech,Technology,Zaw Zaw,Male,Owner,09-567890123,zaw@example.com,Naypyidaw,Small,Registered,20,75000,Tech Companies,Yes
+7,Green Agro Ltd.,Agriculture,Thida Win,Female,Manager,09-678901234,thida@example.com,Sagaing,Medium,Not Registered,45,180000,Food Markets,No
+8,Silver Star Textiles,Textiles,Mya Mya,Female,Owner,09-789012345,mya@example.com,Yangon,Small,Registered,12,40000,Garment Factories,Yes
+9,Mandalay Woodworks,Furniture,Khin Khin,,Owner,09-890123456,khin@example.com,Mandalay,Medium,Not Registered,25,120000,Furniture Stores,No
+10,Sunlight Solar,Energy,Win Ko,Male,Manager,09-901234567,win@example.com,Shan,Micro,Registered,6,8000,Solar Installers,Yes
+11,Aye Myanmar Trading,Retail,Aye Aye,Female,Owner,09-123456789,aye@example.com,Yangon,Small,Registered,15,50000,Retail Shops,Yes
+12,Golden Harvest_2,Agriculture,Tun Tun,Male,Manager,09-987654321,,Mandalay,Medium,Not Registered,50,200000,Farmers,No
+13,Shwe Min Co.,Manufacturing,Min Min,Male,Owner,09-234567890,min@example.com,Bago,Small,Registered,10,30000,Wholesalers,Yes
+14,Evergreen Foods,Food Processing,Hla Hla,Female,Owner,09-345678901,hla@example.com,Yangon,Medium,Not Registered,30,150000,Supermarkets,No
+15,Royal Rubber,Rubber,Soe Moe,Male,Manager,09-456789012,soe@example.com,Mon,Micro,Registered,5,10000,Exporters,Yes
+16,Blue Ocean Tech,Technology,Zaw Zaw,,Owner,09-567890123,zaw@example.com,Naypyidaw,Small,Registered,20,75000,Tech Companies,Yes
+17,Green Agro Ltd.,Agriculture,Thida Win,Female,Manager,09-678901234,thida@example.com,Sagaing,Medium,Not Registered,45,180000,Food Markets,No
+18,Silver Star Textiles,Textiles,Mya Mya,Female,Owner,09-789012345,mya@example.com,Yangon,Small,Registered,12,40000,Garment Factories,Yes
+19,Mandalay Woodworks,Furniture,Khin Khin,Female,Owner,09-890123456,khin@example.com,Mandalay,Medium,Not Registered,25,120000,Furniture Stores,No
+20,Sunlight Solar,Energy,Win Ko,Male,Manager,09-901234567,win@example.com,Shan,Micro,Registered,6,8000,Solar Installers,Yes
