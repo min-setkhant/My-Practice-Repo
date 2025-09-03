@@ -1,0 +1,11 @@
+SalesID,Product,Category,Price,Quantity,Customer,Region,Date
+1,Laptop,Electronics,800,1,John,North,2025-01-01
+2,Mouse,Electronics,20,2,Anna,South,2025-01-02
+3,Shirt,Clothing,25,3,Mike,East,2025-01-02
+4,Phone,Electronics,600,1,Linda,West,2025-01-03
+5,Shoes,Clothing,50,2,John,North,2025-01-04
+6,Watch,Accessories,100,1,Anna,South,2025-01-04
+7,Bag,Accessories,45,4,Mike,East,2025-01-05
+8,Tablet,Electronics,300,2,Linda,West,2025-01-06
+9,Jacket,Clothing,80,1,John,North,2025-01-06
+10,Keyboard,Electronics,35,3,Anna,South,2025-01-07
