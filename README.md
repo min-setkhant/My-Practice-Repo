@@ -1,102 +1,29 @@
+# **Python & EDA Practice**
 
-# **Pandas Practice Project**
+This repo is for my personal practice with **Python** and **Exploratory Data Analysis (EDA)**.
+It includes:
 
-## **Project Overview**
-
-This project is for practicing **Pandas** functions and **Exploratory Data Analysis (EDA)** using a sample sales dataset.
-You will learn how to:
-
-* Load and inspect data
-* Handle missing values
-* Explore unique values
-* Detect outliers
-* Work with dates
-* Perform grouping and aggregations
+* 🐍 Python basics for data analysis
+* 📊 EDA techniques with **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Missingno**
+* 📈 Basic statistical analysis using **SciPy** and **Statsmodels**
+* 📒 Jupyter Notebook files with my practice code and experiments
 
 ---
 
-## **Dataset**
+## **Contents**
 
-The dataset `practice_sales.csv` contains sample sales data with the following columns:
-
-| Column   | Description                          |
-| -------- | ------------------------------------ |
-| SalesID  | Unique ID for each sale              |
-| Product  | Name of the product                  |
-| Category | Product category (Electronics, etc.) |
-| Price    | Price per unit                       |
-| Quantity | Quantity sold                        |
-| Customer | Customer name                        |
-| Region   | Sales region (North, South, etc.)    |
-| Date     | Date of the sale                     |
+* `data/` → Sample datasets (e.g., `births14.csv`)
+* `practice_notebooks/` → My Jupyter Notebooks for Python & EDA practice
+* `README.md` → This file
 
 ---
 
-## **Tasks to Practice**
+## **Goal**
 
-### **1. Load and Inspect Data**
-
-* Load CSV using `pd.read_csv()`
-* Show first few rows (`head()`)
-* Show data info (`info()`)
-* Show summary stats (`describe()`)
+Learn Python data analysis workflows step by step, build confidence with EDA, and prepare for advanced data science projects.
 
 ---
 
-### **2. Explore Data**
+Dude, if you want, I can give you a **GitHub folder structure** with ready-to-go files so your repo looks clean and professional.
 
-* Unique values with `.unique()`
-* Count products with `.value_counts()`
-* Sort data by price
-
----
-
-### **3. Missing Values**
-
-* Check missing values (`isna().sum()`)
-* Fill or drop missing values (`fillna()`, `dropna()`)
-
----
-
-### **4. Filtering Data**
-
-* Rows where `Price > 100`
-* Select specific columns (`Product`, `Price`)
-
----
-
-### **5. Grouping & Aggregation**
-
-* Total sales per category (`groupby`)
-* Average price per region
-
----
-
-### **6. Outlier Detection (IQR Method)**
-
-* Detect outliers using Q1, Q3, and IQR
-* Use boxplots for visualization
-
----
-
-### **7. Date Operations**
-
-* Convert `Date` column to datetime
-* Filter sales after a specific date
-
----
-
-## **How to Run**
-
-1. Save `practice_sales.csv` in the same folder as your Jupyter Notebook.
-2. Open Jupyter Notebook or VS Code.
-3. Run each section step-by-step.
-
----
-
-## **Extra Challenge**
-
-* Try making visualizations with **Matplotlib** or **Seaborn**
-* Create pivot tables with `pd.pivot_table()`
-* Practice exporting cleaned data to CSV
-
+Do you want me to create that structure for you?
