@@ -1,29 +1,102 @@
-# **Python & EDA Practice**
+Math for Data Science with Sample Sales Data
+This project demonstrates core math concepts for data science using Python with a sample sales dataset. It covers essential statistics, probability, linear algebra, calculus, regression, and visualization techniques for Exploratory Data Analysis (EDA) and data science fundamentals.
+📂 Project Structure
+math_for_data_science_with_sales.py → Main Python script with all functions
 
-This repo is for my personal practice with **Python** and **Exploratory Data Analysis (EDA)**.
-It includes:
 
-* 🐍 Python basics for data analysis
-* 📊 EDA techniques with **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Missingno**
-* 📈 Basic statistical analysis using **SciPy** and **Statsmodels**
-* 📒 Jupyter Notebook files with my practice code and experiments
+sample_sales_data → Auto-generated in the script
 
----
 
-## **Contents**
+README.md → This documentation
 
-* `data/` → Sample datasets (e.g., `births14.csv`)
-* `practice_notebooks/` → My Jupyter Notebooks for Python & EDA practice
-* `README.md` → This file
 
----
+📊 Features
+Basic Statistics
 
-## **Goal**
 
-Learn Python data analysis workflows step by step, build confidence with EDA, and prepare for advanced data science projects.
+Mean, Median, Mode, Standard Deviation, Summary Stats
 
----
 
-Dude, if you want, I can give you a **GitHub folder structure** with ready-to-go files so your repo looks clean and professional.
+Probability Functions
 
-Do you want me to create that structure for you?
+
+PDF, CDF using Normal Distribution
+
+
+Correlation & Covariance
+
+
+Relationship between variables
+
+
+Hypothesis Testing
+
+
+One-sample T-test example
+
+
+Linear Algebra
+
+
+Matrix operations with NumPy
+
+
+Calculus
+
+
+Derivatives using SymPy
+
+
+Regression
+
+
+Linear Regression with scikit-learn
+
+
+Visualizations
+
+
+Histograms, Boxplots, Scatterplots, Heatmaps
+
+
+Principal Component Analysis (PCA)
+
+
+Dimensionality reduction with scikit-learn
+
+
+🚀 How to Run
+Clone this repository
+
+
+git clone https://github.com/your-username/math-for-data-science.git
+cd math-for-data-science
+
+Install dependencies
+
+
+pip install numpy pandas scipy matplotlib seaborn scikit-learn sympy
+
+Run the script
+
+
+python math_for_data_science_with_sales.py
+📚 Libraries Used
+NumPy → Math operations & arrays
+
+
+Pandas → Data handling
+
+
+SciPy → Statistics & probability
+
+
+scikit-learn → Regression & PCA
+
+
+Matplotlib & Seaborn → Visualizations
+
+
+SymPy → Calculus
+
+
