@@ -1,0 +1,13 @@
+order_id,order_date,customer,product,quantity,price,region,shipped,total
+1001,2025-01-01,Nerea,USB Cable,2.0,5.99,Mandalay,False,11.98
+1002,2025-01-02,Soe,Wireless Mouse,1.0,9.99,Naypyitaw,False,9.99
+1003,2025-01-03,Maya,Notebook,1.0,9.99,Taunggyi,True,9.99
+1004,2025-01-04,Ko,Pen Set,2.0,,Yangon,False,
+1005,2025-01-05,Lina,Headphones,2.0,5.99,Mandalay,True,11.98
+1006,2025-01-06,Aung,Phone Case,1.0,9.99,Naypyitaw,True,9.99
+1007,2025-01-07,Nerea,USB Cable,,12.5,Taunggyi,True,
+1008,2025-01-08,Soe,Wireless Mouse,3.0,12.5,Yangon,True,37.5
+1009,2025-01-09,Maya,Notebook,2.0,12.5,Mandalay,True,25.0
+1010,2025-01-10,Ko,Pen Set,2.0,3.5,Naypyitaw,False,7.0
+1011,2025-01-11,Lina,Headphones,1.0,5.99,Taunggyi,False,5.99
+1012,2025-01-12,Aung,Phone Case,1.0,5.99,Yangon,False,5.99

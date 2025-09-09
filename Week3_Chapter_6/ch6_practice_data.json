@@ -1,0 +1,134 @@
+[
+  {
+    "order_id": 1001,
+    "order_date": "2025-01-01",
+    "customer": "Nerea",
+    "product": "USB Cable",
+    "quantity": 2.0,
+    "price": 5.99,
+    "region": "Mandalay",
+    "shipped": false,
+    "total": 11.98
+  },
+  {
+    "order_id": 1002,
+    "order_date": "2025-01-02",
+    "customer": "Soe",
+    "product": "Wireless Mouse",
+    "quantity": 1.0,
+    "price": 9.99,
+    "region": "Naypyitaw",
+    "shipped": false,
+    "total": 9.99
+  },
+  {
+    "order_id": 1003,
+    "order_date": "2025-01-03",
+    "customer": "Maya",
+    "product": "Notebook",
+    "quantity": 1.0,
+    "price": 9.99,
+    "region": "Taunggyi",
+    "shipped": true,
+    "total": 9.99
+  },
+  {
+    "order_id": 1004,
+    "order_date": "2025-01-04",
+    "customer": "Ko",
+    "product": "Pen Set",
+    "quantity": 2.0,
+    "price": NaN,
+    "region": "Yangon",
+    "shipped": false,
+    "total": NaN
+  },
+  {
+    "order_id": 1005,
+    "order_date": "2025-01-05",
+    "customer": "Lina",
+    "product": "Headphones",
+    "quantity": 2.0,
+    "price": 5.99,
+    "region": "Mandalay",
+    "shipped": true,
+    "total": 11.98
+  },
+  {
+    "order_id": 1006,
+    "order_date": "2025-01-06",
+    "customer": "Aung",
+    "product": "Phone Case",
+    "quantity": 1.0,
+    "price": 9.99,
+    "region": "Naypyitaw",
+    "shipped": true,
+    "total": 9.99
+  },
+  {
+    "order_id": 1007,
+    "order_date": "2025-01-07",
+    "customer": "Nerea",
+    "product": "USB Cable",
+    "quantity": NaN,
+    "price": 12.5,
+    "region": "Taunggyi",
+    "shipped": true,
+    "total": NaN
+  },
+  {
+    "order_id": 1008,
+    "order_date": "2025-01-08",
+    "customer": "Soe",
+    "product": "Wireless Mouse",
+    "quantity": 3.0,
+    "price": 12.5,
+    "region": "Yangon",
+    "shipped": true,
+    "total": 37.5
+  },
+  {
+    "order_id": 1009,
+    "order_date": "2025-01-09",
+    "customer": "Maya",
+    "product": "Notebook",
+    "quantity": 2.0,
+    "price": 12.5,
+    "region": "Mandalay",
+    "shipped": true,
+    "total": 25.0
+  },
+  {
+    "order_id": 1010,
+    "order_date": "2025-01-10",
+    "customer": "Ko",
+    "product": "Pen Set",
+    "quantity": 2.0,
+    "price": 3.5,
+    "region": "Naypyitaw",
+    "shipped": false,
+    "total": 7.0
+  },
+  {
+    "order_id": 1011,
+    "order_date": "2025-01-11",
+    "customer": "Lina",
+    "product": "Headphones",
+    "quantity": 1.0,
+    "price": 5.99,
+    "region": "Taunggyi",
+    "shipped": false,
+    "total": 5.99
+  },
+  {
+    "order_id": 1012,
+    "order_date": "2025-01-12",
+    "customer": "Aung",
+    "product": "Phone Case",
+    "quantity": 1.0,
+    "price": 5.99,
+    "region": "Yangon",
+    "shipped": false,
+    "total": 5.99
+  }
+]
